@@ -81,7 +81,7 @@ button:hover {
   }
 
   .rockBackground {
-    background-image: url(./images/FCC_headline.png);
+    background-image: url(images/FCC_headline.png);
     background-size: cover;
     background-repeat: no-repeat;
     height: 300px;
